@@ -24,19 +24,19 @@ Here is the status of my 7-month structured learning path from **June 27 to Dece
 |:---:|:---|:---:|:---:|:---|
 | 1 | **Phase-1:** EDA & Feature Engineering | **Completed** ✅ | 203-day baseline | Prerequisite | 
 | 2 | **Phase-2:** Regression & Streamlit | **Completed** ✅ | 203-day baseline | Prerequisite |
-| 3 | **Phase-3 / Phase 1 in doc:** Logistic Regression Deep Dive | **Active** 🚀 | Jun 27 - Jul 03 | Classification fundamentals |
-| 4 | **Phase 2: Feature Engineering** | Upcoming ⏳ | Jul 04 - Jul 10 | Advanced missing values, outlier detection, cyclical features |
-| 5 | **Phase 3: Classification Mastery** | Upcoming ⏳ | Jul 11 - Jul 24 | Bias-variance tradeoff, imbalanced datasets, KNN, clustering |
-| 6 | **Phase 4: Trees & Ensembles** | Upcoming ⏳ | Jul 25 - Aug 09 | Decision trees, Random Forest, Boosting (XGB/LGB/Cat), Optuna |
-| 7 | **Phase 5: SVM & Model Comparison** | Upcoming ⏳ | Aug 10 - Aug 21 | Support Vector Machines, model evaluation frameworks, calibration |
-| 8 | **Phase 6: Deep Learning -- ANN** | Upcoming ⏳ | Aug 22 - Sep 04 | PyTorch tensors, backprop from scratch, MLP model training |
-| 9 | **Phase 7: Deep Learning -- CNN** | Upcoming ⏳ | Sep 05 - Sep 18 | Computer Vision, CNN architecture, transfer learning, Grad-CAM |
-| 10 | **Phase 8: NLP** | Upcoming ⏳ | Sep 19 - Oct 02 | Text preprocessing, BoW, TF-IDF, spaCy pipelines, NER |
-| 11 | **Phase 9: Transformers & AI Agents** | Upcoming ⏳ | Oct 03 - Oct 16 | RNNs/LSTMs, Transformers, BERT fine-tuning, RAG, vector DBs, AI Agents |
-| 12 | **Phase 10: Full Stack AI** | Upcoming ⏳ | Oct 17 - Nov 06 | FastAPI backend prediction APIs, React frontend UI integration |
-| 13 | **Phase 11: ML Pipelines & MLOps** | Upcoming ⏳ | Nov 07 - Nov 27 | sklearn pipelines, Docker containerization, MLflow tracking, CI/CD |
-| 14 | **Phase 12: Capstone Project** | Upcoming ⏳ | Nov 28 - Dec 11 | Industry-grade flagship capstone modeling, deployment, monitoring |
-| 15 | **Phase 14: Final Stretch -- Build, Apply & Launch** | Upcoming ⏳ | Dec 12 - Dec 31 | ML system design cases, mock interviews, job applications |
+| 3 | **Phase-3:** Logistic Regression Deep Dive | **Active** 🚀 | Jun 27 - Jul 03 | Classification fundamentals |
+| 4 | **Phase 4: Feature Engineering** | Upcoming ⏳ | Jul 04 - Jul 10 | Advanced missing values, outlier detection, cyclical features |
+| 5 | **Phase 5: Classification Mastery** | Upcoming ⏳ | Jul 11 - Jul 24 | Bias-variance tradeoff, imbalanced datasets, KNN, clustering |
+| 6 | **Phase 6: Trees & Ensembles** | Upcoming ⏳ | Jul 25 - Aug 09 | Decision trees, Random Forest, Boosting (XGB/LGB/Cat), Optuna |
+| 7 | **Phase 7: SVM & Model Comparison** | Upcoming ⏳ | Aug 10 - Aug 21 | Support Vector Machines, model evaluation frameworks, calibration |
+| 8 | **Phase 8: Deep Learning -- ANN** | Upcoming ⏳ | Aug 22 - Sep 04 | PyTorch tensors, backprop from scratch, MLP model training |
+| 9 | **Phase 9: Deep Learning -- CNN** | Upcoming ⏳ | Sep 05 - Sep 18 | Computer Vision, CNN architecture, transfer learning, Grad-CAM |
+| 10 | **Phase 10: NLP** | Upcoming ⏳ | Sep 19 - Oct 02 | Text preprocessing, BoW, TF-IDF, spaCy pipelines, NER |
+| 11 | **Phase 11: Transformers & AI Agents** | Upcoming ⏳ | Oct 03 - Oct 16 | RNNs/LSTMs, Transformers, BERT fine-tuning, RAG, vector DBs, AI Agents |
+| 12 | **Phase 12: Full Stack AI** | Upcoming ⏳ | Oct 17 - Nov 06 | FastAPI backend prediction APIs, React frontend UI integration |
+| 13 | **Phase 13: ML Pipelines & MLOps** | Upcoming ⏳ | Nov 07 - Nov 27 | sklearn pipelines, Docker containerization, MLflow tracking, CI/CD |
+| 14 | **Phase 14: Capstone Project** | Upcoming ⏳ | Nov 28 - Dec 11 | Industry-grade flagship capstone modeling, deployment, monitoring |
+| 15 | **Phase 15: Final Stretch -- Build, Apply & Launch** | Upcoming ⏳ | Dec 12 - Dec 31 | ML system design cases, mock interviews, job applications |
 
 
 ---
@@ -61,7 +61,7 @@ AI-ML-Blueprint/
 
 ## 📚 Detailed Day-by-Day Breakdown
 
-### 🤖 Phase 1: Logistic Regression Deep Dive
+### 🤖 Phase 3: Logistic Regression Deep Dive
 
 | Day | Date | Topic / Project | Notebook File | Subtopics |
 |:---:|:---:|:---|:---|:---|
@@ -73,7 +73,7 @@ AI-ML-Blueprint/
 
 ---
 
-### 🤖 Phase 2: Feature Engineering
+### 🤖 Phase 4: Feature Engineering
 
 | Day | Date | Topic / Project | Notebook File | Subtopics |
 |:---:|:---:|:---|:---|:---|
@@ -85,7 +85,7 @@ AI-ML-Blueprint/
 
 ---
 
-### 🤖 Phase 3: Classification Mastery
+### 🤖 Phase 5: Classification Mastery
 
 | Day | Date | Topic / Project | Notebook File | Subtopics |
 |:---:|:---:|:---|:---|:---|
@@ -102,7 +102,7 @@ AI-ML-Blueprint/
 
 ---
 
-### 🤖 Phase 4: Trees & Ensembles
+### 🤖 Phase 6: Trees & Ensembles
 
 | Day | Date | Topic / Project | Notebook File | Subtopics |
 |:---:|:---:|:---|:---|:---|
@@ -124,7 +124,7 @@ AI-ML-Blueprint/
 
 ---
 
-### 🤖 Phase 5: SVM & Model Comparison
+### 🤖 Phase 7: SVM & Model Comparison
 
 | Day | Date | Topic / Project | Notebook File | Subtopics |
 |:---:|:---:|:---|:---|:---|
@@ -136,7 +136,7 @@ AI-ML-Blueprint/
 
 ---
 
-### 🤖 Phase 6: Deep Learning -- ANN
+### 🤖 Phase 8: Deep Learning -- ANN
 
 | Day | Date | Topic / Project | Notebook File | Subtopics |
 |:---:|:---:|:---|:---|:---|
@@ -148,7 +148,7 @@ AI-ML-Blueprint/
 
 ---
 
-### 🤖 Phase 7: Deep Learning -- CNN
+### 🤖 Phase 9: Deep Learning -- CNN
 
 | Day | Date | Topic / Project | Notebook File | Subtopics |
 |:---:|:---:|:---|:---|:---|
@@ -162,7 +162,7 @@ AI-ML-Blueprint/
 
 ---
 
-### 🤖 Phase 8: NLP
+### 🤖 Phase 10: NLP
 
 | Day | Date | Topic / Project | Notebook File | Subtopics |
 |:---:|:---:|:---|:---|:---|
@@ -185,7 +185,7 @@ AI-ML-Blueprint/
 
 ---
 
-### 🤖 Phase 9: Transformers & AI Agents
+### 🤖 Phase 11: Transformers & AI Agents
 
 | Day | Date | Topic / Project | Notebook File | Subtopics |
 |:---:|:---:|:---|:---|:---|
@@ -208,7 +208,7 @@ AI-ML-Blueprint/
 
 ---
 
-### 🤖 Phase 10: Full Stack AI
+### 🤖 Phase 12: Full Stack AI
 
 | Day | Date | Topic / Project | Notebook File | Subtopics |
 |:---:|:---:|:---|:---|:---|
@@ -231,7 +231,7 @@ AI-ML-Blueprint/
 
 ---
 
-### 🤖 Phase 11: ML Pipelines & MLOps
+### 🤖 Phase 13: ML Pipelines & MLOps
 
 | Day | Date | Topic / Project | Notebook File | Subtopics |
 |:---:|:---:|:---|:---|:---|
@@ -262,7 +262,7 @@ AI-ML-Blueprint/
 
 ---
 
-### 🤖 Phase 12: Capstone Project
+### 🤖 Phase 14: Capstone Project
 
 | Day | Date | Topic / Project | Notebook File | Subtopics |
 |:---:|:---:|:---|:---|:---|
@@ -293,7 +293,7 @@ AI-ML-Blueprint/
 
 ---
 
-### 🤖 Phase 14: Final Stretch -- Build, Apply & Launch
+### 🤖 Phase 15: Final Stretch -- Build, Apply & Launch
 
 | Day | Date | Topic / Project | Notebook File | Subtopics |
 |:---:|:---:|:---|:---|:---|
