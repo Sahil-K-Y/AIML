@@ -46,15 +46,15 @@ Here is the status of my 7-month structured learning path from **June 27 to Dece
 ```
 AI-ML-Blueprint/
 │
-├── 📁 Phase-1/       → EDA & Feature Engineering [Completed]
-├── 📁 Phase-2/       → Regression & Streamlit [Completed]
-├── 📁 Phase-3/       → Active Phase: Advanced Classification & Deep Learning
+├── 📁 Phase-1 - EDA & Feature Engineering/                 → Completed
+├── 📁 Phase-2 - Regression & Streamlit/                   → Completed
+├── 📁 Phase-3 - Logistic Regression Deep Dive/           → Active Phase: Advanced Classification & Deep Learning
 │   ├── Day 001 - Logistic Regression Theory.ipynb
 │   ├── Day 002 - Logistic Regression Cost Function.ipynb
 │   └── Day 003 - Logistic Regression Implementation.ipynb
-├── 📄 final.txt       → Master day-by-day curriculum logs
-├── 📄 roadmap.txt     → Dynamic roadmap schedule
-└── 📄 README.md       → Portfolio homepage
+├── 📄 final.txt                                            → Master day-by-day curriculum logs
+├── 📄 roadmap.txt                                          → Dynamic roadmap schedule
+└── 📄 README.md                                            → Portfolio homepage
 ```
 
 ---
