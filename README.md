@@ -1,42 +1,47 @@
 <div align="center">
-<!-- Animated Waving Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A855F7&height=220&section=header&text=AI%2FML%20Blueprint%20%F0%9F%A4%96&fontSize=50&fontColor=white&animation=fadeIn&fontAlignY=38&desc=7-Month%20Structured%20AI%2FML%20Mastery%20Roadmap&descAlignY=58&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A855F7&height=250&section=header&text=AI%2FML%20ENGINEER%20BLUEPRINT%20%F0%9F%A4%96&fontSize=42&fontColor=white&animation=fadeIn&fontAlignY=35&desc=A%20Rigorous%207-Month%20Mastery%20Path&descAlignY=55&descSize=16&descColor=DDDDDD" width="100%" />
 
-<img src="https://img.shields.io/badge/Duration-7%20Months%20%2F%20188%20Days-blueviolet?style=for-the-badge&logo=calendar&logoColor=white"/>
-<img src="https://img.shields.io/badge/Stack-Python%20%7C%20PyTorch%20%7C%20FastAPI%20%7C%20React-6C63FF?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Projects-27%20Weekend%20Apps-FFD21E?style=for-the-badge&logo=codeforces&logoColor=white"/>
-<img src="https://img.shields.io/badge/Status-Phase%203%20In%20Progress-green?style=for-the-badge&logo=git&logoColor=white"/>
+[![Mastery Duration](https://img.shields.io/badge/Duration-7%20Months%20%2F%20188%20Days-blueviolet?style=for-the-badge&logo=calendar&logoColor=white)](#-roadmap-progress-tracker)
+[![Curriculum Status](https://img.shields.io/badge/Status-Phase%203%20Active-green?style=for-the-badge&logo=git&logoColor=white)](#-roadmap-progress-tracker)
+[![Primary Stack](https://img.shields.io/badge/Stack-PyTorch%20%7C%20Scikit--Learn-3776AB?style=for-the-badge&logo=python&logoColor=white)](#%EF%B8%8F-deep-tech-stack)
+[![Code Style](https://img.shields.io/badge/Code--Style-PEP%208-FFD21E?style=for-the-badge&logo=jupyter&logoColor=white)](#-repository-directory-structure)
 
-<br/><br/>
+<br/>
 
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=7-Month+AI%2FML+Mastery+Roadmap+%F0%9F%9A%80;Phase+1+%26+2+Completed+%E2%9C%85;Phase+3+Active%3A+Logistic+Regression+Deep+Dive+%F0%9F%A7%A0;PyTorch+%7C+RAG+%7C+AI+Agents+%7C+Full-Stack+ML" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=%E2%9A%A1+188+Days+of+Rigorous+AI%2FML+Mastery;%F0%9F%9A%80+From+Logistic+Regression+to+State-of-the-Art;%F0%9F%A7%A0+Deep+Learning+%7C+NLP+%7C+RAG+%7C+AI+Agents;%E2%9C%85+Phase+1+%26+2+Completed+successfully" alt="Typing SVG"/>
 
 </div>
 
 ---
 
+## 🌟 Program Highlights
+
+- 🚀 **Zero Filler, 100% Code:** Designed to take you from a basic learner to a production-ready AI/ML Engineer.
+- 🏗️ **27 Weekend Capstone Projects:** Saturdays & Sundays are strictly dedicated to building end-to-end applications (Part 1: Training, Part 2: Deployment).
+- 🔧 **State-of-the-Art Curriculum:** Deep dive into Deep Learning, PyTorch, Transformers, LLMs, Vector Databases (RAG), and AI Agentic architectures.
+- ⚡ **DSA Separated:** Algorithmic studies are maintained in a parallel track so AI/ML learning remains clean and hyper-focused.
+
 ## 🎯 Roadmap Progress Tracker
 
-Here is the status of my 7-month structured learning path from **June 27 to December 31, 2026**:
+Here is my live progression through the curriculum. Completed phases are marked with a checkmark, while active phases highlight my current work:
 
-| Phase | Folder / Topic | Status | Date Range | Scope |
-|:---:|:---|:---:|:---:|:---|
-| 1 | **Phase-1:** EDA & Feature Engineering | **Completed** ✅ | 203-day baseline | Prerequisite | 
-| 2 | **Phase-2:** Regression & Streamlit | **Completed** ✅ | 203-day baseline | Prerequisite |
-| 3 | **Phase-3:** Logistic Regression Deep Dive | **Active** 🚀 | Jun 27 - Jul 03 | Classification fundamentals |
-| 4 | **Phase 4: Feature Engineering** | Upcoming ⏳ | Jul 04 - Jul 10 | Advanced missing values, outlier detection, cyclical features |
-| 5 | **Phase 5: Classification Mastery** | Upcoming ⏳ | Jul 11 - Jul 24 | Bias-variance tradeoff, imbalanced datasets, KNN, clustering |
-| 6 | **Phase 6: Trees & Ensembles** | Upcoming ⏳ | Jul 25 - Aug 09 | Decision trees, Random Forest, Boosting (XGB/LGB/Cat), Optuna |
-| 7 | **Phase 7: SVM & Model Comparison** | Upcoming ⏳ | Aug 10 - Aug 21 | Support Vector Machines, model evaluation frameworks, calibration |
-| 8 | **Phase 8: Deep Learning -- ANN** | Upcoming ⏳ | Aug 22 - Sep 04 | PyTorch tensors, backprop from scratch, MLP model training |
-| 9 | **Phase 9: Deep Learning -- CNN** | Upcoming ⏳ | Sep 05 - Sep 18 | Computer Vision, CNN architecture, transfer learning, Grad-CAM |
-| 10 | **Phase 10: NLP** | Upcoming ⏳ | Sep 19 - Oct 02 | Text preprocessing, BoW, TF-IDF, spaCy pipelines, NER |
-| 11 | **Phase 11: Transformers & AI Agents** | Upcoming ⏳ | Oct 03 - Oct 16 | RNNs/LSTMs, Transformers, BERT fine-tuning, RAG, vector DBs, AI Agents |
-| 12 | **Phase 12: Full Stack AI** | Upcoming ⏳ | Oct 17 - Nov 06 | FastAPI backend prediction APIs, React frontend UI integration |
-| 13 | **Phase 13: ML Pipelines & MLOps** | Upcoming ⏳ | Nov 07 - Nov 27 | sklearn pipelines, Docker containerization, MLflow tracking, CI/CD |
-| 14 | **Phase 14: Capstone Project** | Upcoming ⏳ | Nov 28 - Dec 11 | Industry-grade flagship capstone modeling, deployment, monitoring |
-| 15 | **Phase 15: Final Stretch -- Build, Apply & Launch** | Upcoming ⏳ | Dec 12 - Dec 31 | ML system design cases, mock interviews, job applications |
+| Phase | Scope & Topics | Date Range | Progress Bar | Status |
+|:---:|:---|:---:|:---:|:---:|
+| 1 | **Phase 1: EDA & Feature Engineering** | Completed | `████████████████` 100% | **Completed** ✅ |
+| 2 | **Phase 2: Regression & Streamlit** | Completed | `████████████████` 100% | **Completed** ✅ |
+| 3 | **Phase 3: Logistic Regression Deep Dive** | Jun 27 - Jul 03 | `▓▓▓░░░░░░░░░░░░░` 15% | **Active** 🚀 |
+| 4 | **Phase 4: Feature Engineering**<br><sub>Advanced missing values, outlier detection, cyclical features</sub> | Jul 04 - Jul 10 | `░░░░░░░░░░░░░░░░` 0% | Upcoming ⏳ |
+| 5 | **Phase 5: Classification Mastery**<br><sub>Bias-variance tradeoff, imbalanced datasets, KNN, clustering</sub> | Jul 11 - Jul 24 | `░░░░░░░░░░░░░░░░` 0% | Upcoming ⏳ |
+| 6 | **Phase 6: Trees & Ensembles**<br><sub>Decision trees, Random Forest, Boosting (XGB/LGB/Cat), Optuna</sub> | Jul 25 - Aug 09 | `░░░░░░░░░░░░░░░░` 0% | Upcoming ⏳ |
+| 7 | **Phase 7: SVM & Model Comparison**<br><sub>Support Vector Machines, model evaluation frameworks, calibration</sub> | Aug 10 - Aug 21 | `░░░░░░░░░░░░░░░░` 0% | Upcoming ⏳ |
+| 8 | **Phase 8: Deep Learning -- ANN**<br><sub>PyTorch tensors, backprop from scratch, MLP model training</sub> | Aug 22 - Sep 04 | `░░░░░░░░░░░░░░░░` 0% | Upcoming ⏳ |
+| 9 | **Phase 9: Deep Learning -- CNN**<br><sub>Computer Vision, CNN architecture, transfer learning, Grad-CAM</sub> | Sep 05 - Sep 18 | `░░░░░░░░░░░░░░░░` 0% | Upcoming ⏳ |
+| 10 | **Phase 10: NLP**<br><sub>Text preprocessing, BoW, TF-IDF, spaCy pipelines, NER</sub> | Sep 19 - Oct 02 | `░░░░░░░░░░░░░░░░` 0% | Upcoming ⏳ |
+| 11 | **Phase 11: Transformers & AI Agents**<br><sub>RNNs/LSTMs, Transformers, BERT fine-tuning, RAG, vector DBs, AI Agents</sub> | Oct 03 - Oct 16 | `░░░░░░░░░░░░░░░░` 0% | Upcoming ⏳ |
+| 12 | **Phase 12: Full Stack AI**<br><sub>FastAPI backend prediction APIs, React frontend UI integration</sub> | Oct 17 - Nov 06 | `░░░░░░░░░░░░░░░░` 0% | Upcoming ⏳ |
+| 13 | **Phase 13: ML Pipelines & MLOps**<br><sub>sklearn pipelines, Docker containerization, MLflow tracking, CI/CD</sub> | Nov 07 - Nov 27 | `░░░░░░░░░░░░░░░░` 0% | Upcoming ⏳ |
+| 14 | **Phase 14: Capstone Project**<br><sub>Industry-grade flagship capstone modeling, deployment, monitoring</sub> | Nov 28 - Dec 11 | `░░░░░░░░░░░░░░░░` 0% | Upcoming ⏳ |
+| 15 | **Phase 15: Final Stretch -- Build, Apply & Launch**<br><sub>ML system design cases, mock interviews, job applications</sub> | Dec 12 - Dec 31 | `░░░░░░░░░░░░░░░░` 0% | Upcoming ⏳ |
 
 
 ---
@@ -46,20 +51,23 @@ Here is the status of my 7-month structured learning path from **June 27 to Dece
 ```
 AI-ML-Blueprint/
 │
-├── 📁 Phase-1 - EDA & Feature Engineering/                 → Completed
-├── 📁 Phase-2 - Regression & Streamlit/                   → Completed
-├── 📁 Phase-3 - Logistic Regression Deep Dive/           → Active Phase: Advanced Classification & Deep Learning
+├── 📁 Phase-1 - EDA & Feature Engineering/                 → Completed notebooks & data
+├── 📁 Phase-2 - Regression & Streamlit/                   → Completed linear/multiple regression
+├── 📁 Phase-3 - Logistic Regression Deep Dive/           → Active: notebooks & implementations
 │   ├── Day 001 - Logistic Regression Theory.ipynb
 │   ├── Day 002 - Logistic Regression Cost Function.ipynb
 │   └── Day 003 - Logistic Regression Implementation.ipynb
-└── 📄 README.md                                            → Portfolio homepage
+└── 📄 README.md                                            → Interactive dashboard & roadmap homepage
 ```
 
 ---
 
 ## 📚 Detailed Day-by-Day Breakdown
 
-### 🤖 Phase 3: Logistic Regression Deep Dive
+Click on any phase to expand or collapse the daily schedule, topic titles, and specific subtopics:
+
+<details open>
+<summary><b>🤖 Phase 3: Logistic Regression Deep Dive</b> (Click to expand)</summary>
 
 | Day | Date | Topic / Project | Notebook File | Subtopics |
 |:---:|:---:|:---|:---|:---|
@@ -69,9 +77,12 @@ AI-ML-Blueprint/
 | 004 | 30-Jun (Tue) | [TOPIC] Data Leakage & Cross Validation Deep Dive | `Day 004 - Data Leakage and Cross Validation Deep Dive.ipynb` | Train/test contamination; Feature leakage; Temporal leakage; Preprocessing leakage; Detection; Prevention with Pipeline; Code: Leakage example with/without Pipeline; Hold-out vs K-Fold; Stratified K-Fold; GroupKFold; Leave-One-Out; Repeated CV; CV with Pipelines; Code: All CV strategies implement + compare |
 | 005 | 01-Jul (Wed) | [TOPIC] LR Hyperparameters + Regularization & Cost-Sensitive Learning & Threshold Optimization | `Day 005 - LR Hyperparameters and Regularization and Cost-Sensitive Lea.ipynb` | C parameter; penalty L1/L2/ElasticNet; solver lbfgs/liblinear/saga; class_weight=balanced; max_iter/tol; GridSearchCV; Code: Full tuning pipeline; Cost matrices for business-driven decisions; Platt scaling for LR probability calibration; reliability diagrams; choosing thresholds by real cost, not just F1 |
 
+</details>
+
 ---
 
-### 🤖 Phase 4: Feature Engineering
+<details>
+<summary><b>🤖 Phase 4: Feature Engineering</b> (Click to expand)</summary>
 
 | Day | Date | Topic / Project | Notebook File | Subtopics |
 |:---:|:---:|:---|:---|:---|
@@ -81,9 +92,12 @@ AI-ML-Blueprint/
 | 009 | 05-Jul (Sun) | **[WEEKEND PROJECT 02] Feature Engineering Pipeline (House Prices)** | `Day 009 - Feature Engineering Pipeline (House Prices).ipynb` | House Prices dataset; Missing value analysis; Outlier handling; Feature creation (ratios/age); Encoding; Selection; Compare baseline vs FE model; GitHub push + README |
 | 010 | 06-Jul (Mon) | [TOPIC] Outlier Detection & Handling & Advanced Feature Engineering: Datetime & Text Features | `Day 010 - Outlier Detection and Handling and Advanced Feature Engineer.ipynb` | Z-score; Modified Z-score; IQR (Tukey); Isolation Forest; LOF; Winsorization; Outliers as signal vs noise; Code: All methods implement + compare; Cyclical encoding (sin/cos for hour/day/month); date decomposition; basic text-to-numeric features; feature-engine library; intro to feature stores |
 
+</details>
+
 ---
 
-### 🤖 Phase 5: Classification Mastery
+<details>
+<summary><b>🤖 Phase 5: Classification Mastery</b> (Click to expand)</summary>
 
 | Day | Date | Topic / Project | Notebook File | Subtopics |
 |:---:|:---:|:---|:---|:---|
@@ -98,9 +112,12 @@ AI-ML-Blueprint/
 | 022 | 18-Jul (Sat) | **[WEEKEND PROJECT 04] Customer Segmentation + Complete Classification Pipeline** | `Day 022 - Customer Segmentation and Complete Classification Pipeline.ipynb` | Mall Customers: K-Means+DBSCAN+PCA, business insights; Heart Disease: LR vs KNN + SMOTE + ROC-AUC + Streamlit app; GitHub push + README |
 | 023 | 19-Jul (Sun) | **[WEEKEND PROJECT 04] Customer Segmentation + Complete Classification Pipeline** | `Day 023 - Customer Segmentation and Complete Classification Pipeline.ipynb` | Mall Customers: K-Means+DBSCAN+PCA, business insights; Heart Disease: LR vs KNN + SMOTE + ROC-AUC + Streamlit app; GitHub push + README |
 
+</details>
+
 ---
 
-### 🤖 Phase 6: Trees & Ensembles
+<details>
+<summary><b>🤖 Phase 6: Trees & Ensembles</b> (Click to expand)</summary>
 
 | Day | Date | Topic / Project | Notebook File | Subtopics |
 |:---:|:---:|:---|:---|:---|
@@ -120,9 +137,12 @@ AI-ML-Blueprint/
 | 043 | 08-Aug (Sat) | **[WEEKEND PROJECT 07] Ensemble House Price Predictor + SVM Multi-class** | `Day 043 - Ensemble House Price Predictor and SVM Multi-class.ipynb` | RF+XGBoost+LightGBM stacked with linear meta-model on House Prices; SVM multi-class on Wine with kernel comparison; GitHub push + README |
 | 044 | 09-Aug (Sun) | **[WEEKEND PROJECT 07] Ensemble House Price Predictor + SVM Multi-class** | `Day 044 - Ensemble House Price Predictor and SVM Multi-class.ipynb` | RF+XGBoost+LightGBM stacked with linear meta-model on House Prices; SVM multi-class on Wine with kernel comparison; GitHub push + README |
 
+</details>
+
 ---
 
-### 🤖 Phase 7: SVM & Model Comparison
+<details>
+<summary><b>🤖 Phase 7: SVM & Model Comparison</b> (Click to expand)</summary>
 
 | Day | Date | Topic / Project | Notebook File | Subtopics |
 |:---:|:---:|:---|:---|:---|
@@ -132,9 +152,12 @@ AI-ML-Blueprint/
 | 050 | 15-Aug (Sat) | **[WEEKEND PROJECT 08] Model Benchmark Dashboard (Streamlit)** | `Day 050 - Model Benchmark Dashboard (Streamlit).ipynb` | Build a Streamlit app comparing all classical ML models on a dataset of choice with metrics + calibration plots; GitHub push + README |
 | 051 | 16-Aug (Sun) | **[WEEKEND PROJECT 08] Model Benchmark Dashboard (Streamlit)** | `Day 051 - Model Benchmark Dashboard (Streamlit).ipynb` | Build a Streamlit app comparing all classical ML models on a dataset of choice with metrics + calibration plots; GitHub push + README |
 
+</details>
+
 ---
 
-### 🤖 Phase 8: Deep Learning -- ANN
+<details>
+<summary><b>🤖 Phase 8: Deep Learning -- ANN</b> (Click to expand)</summary>
 
 | Day | Date | Topic / Project | Notebook File | Subtopics |
 |:---:|:---:|:---|:---|:---|
@@ -144,9 +167,12 @@ AI-ML-Blueprint/
 | 057 | 22-Aug (Sat) | **[WEEKEND PROJECT 09] Bank Churn ANN** | `Day 057 - Bank Churn ANN.ipynb` | Preprocessing; Keras Sequential + Dropout + BatchNorm; EarlyStopping + ModelCheckpoint; compare LR vs RF vs ANN; model.save(); Streamlit app; GitHub push + README |
 | 058 | 23-Aug (Sun) | **[WEEKEND PROJECT 09] Bank Churn ANN** | `Day 058 - Bank Churn ANN.ipynb` | Preprocessing; Keras Sequential + Dropout + BatchNorm; EarlyStopping + ModelCheckpoint; compare LR vs RF vs ANN; model.save(); Streamlit app; GitHub push + README |
 
+</details>
+
 ---
 
-### 🤖 Phase 9: Deep Learning -- CNN
+<details>
+<summary><b>🤖 Phase 9: Deep Learning -- CNN</b> (Click to expand)</summary>
 
 | Day | Date | Topic / Project | Notebook File | Subtopics |
 |:---:|:---:|:---|:---|:---|
@@ -158,9 +184,12 @@ AI-ML-Blueprint/
 | 064 | 29-Aug (Sat) | **[WEEKEND PROJECT 10] Digit Classifier CNN + Transfer Learning Image Classifier** | `Day 064 - Digit Classifier CNN and Transfer Learning Image Classifier.ipynb` | MNIST CNN (3 conv blocks) with augmentation + Grad-CAM; CIFAR-10/Cats-vs-Dogs MobileNet fine-tuned; compare scratch vs transfer learning; GitHub push + README |
 | 065 | 30-Aug (Sun) | **[WEEKEND PROJECT 10] Digit Classifier CNN + Transfer Learning Image Classifier** | `Day 065 - Digit Classifier CNN and Transfer Learning Image Classifier.ipynb` | MNIST CNN (3 conv blocks) with augmentation + Grad-CAM; CIFAR-10/Cats-vs-Dogs MobileNet fine-tuned; compare scratch vs transfer learning; GitHub push + README |
 
+</details>
+
 ---
 
-### 🤖 Phase 10: NLP
+<details>
+<summary><b>🤖 Phase 10: NLP</b> (Click to expand)</summary>
 
 | Day | Date | Topic / Project | Notebook File | Subtopics |
 |:---:|:---:|:---|:---|:---|
@@ -181,9 +210,12 @@ AI-ML-Blueprint/
 | 078 | 12-Sep (Sat) | **[WEEKEND PROJECT 12] Sentiment Analysis App + News Category Classifier** | `Day 078 - Sentiment Analysis App and News Category Classifier.ipynb` | IMDB reviews end-to-end sentiment classifier with Streamlit; AG News/BBC multi-class classifier with confusion matrix analysis; GitHub push + README |
 | 079 | 13-Sep (Sun) | **[WEEKEND PROJECT 12] Sentiment Analysis App + News Category Classifier** | `Day 079 - Sentiment Analysis App and News Category Classifier.ipynb` | IMDB reviews end-to-end sentiment classifier with Streamlit; AG News/BBC multi-class classifier with confusion matrix analysis; GitHub push + README |
 
+</details>
+
 ---
 
-### 🤖 Phase 11: Transformers & AI Agents
+<details>
+<summary><b>🤖 Phase 11: Transformers & AI Agents</b> (Click to expand)</summary>
 
 | Day | Date | Topic / Project | Notebook File | Subtopics |
 |:---:|:---:|:---|:---|:---|
@@ -204,9 +236,12 @@ AI-ML-Blueprint/
 | 092 | 26-Sep (Sat) | **[WEEKEND PROJECT 14] RAG Chat-With-PDF + Simple AI Agent** | `Day 092 - RAG Chat-With-PDF and Simple AI Agent.ipynb` | LangChain+Streamlit RAG app over PDFs; basic tool-using agent (web search + calculator) with LangChain/LangGraph; GitHub push + README |
 | 093 | 27-Sep (Sun) | **[WEEKEND PROJECT 14] RAG Chat-With-PDF + Simple AI Agent** | `Day 093 - RAG Chat-With-PDF and Simple AI Agent.ipynb` | LangChain+Streamlit RAG app over PDFs; basic tool-using agent (web search + calculator) with LangChain/LangGraph; GitHub push + README |
 
+</details>
+
 ---
 
-### 🤖 Phase 12: Full Stack AI
+<details>
+<summary><b>🤖 Phase 12: Full Stack AI</b> (Click to expand)</summary>
 
 | Day | Date | Topic / Project | Notebook File | Subtopics |
 |:---:|:---:|:---|:---|:---|
@@ -227,9 +262,12 @@ AI-ML-Blueprint/
 | 106 | 10-Oct (Sat) | **[WEEKEND PROJECT 16] Full Stack AI App -- Deployed (Final)** | `Day 106 - Full Stack AI App -- Deployed (Final).ipynb` | Hosting on Vercel + Render; bug fixes and performance check -- flagship project done; GitHub push + README |
 | 107 | 11-Oct (Sun) | **[WEEKEND PROJECT 16] Full Stack AI App -- Deployed (Final)** | `Day 107 - Full Stack AI App -- Deployed (Final).ipynb` | Hosting on Vercel + Render; bug fixes and performance check -- flagship project done; GitHub push + README |
 
+</details>
+
 ---
 
-### 🤖 Phase 13: ML Pipelines & MLOps
+<details>
+<summary><b>🤖 Phase 13: ML Pipelines & MLOps</b> (Click to expand)</summary>
 
 | Day | Date | Topic / Project | Notebook File | Subtopics |
 |:---:|:---:|:---|:---|:---|
@@ -258,9 +296,12 @@ AI-ML-Blueprint/
 | 127 | 31-Oct (Sat) | **[WEEKEND PROJECT 19] End-to-End MLOps App (Capstone Prep)** | `Day 127 - End-to-End MLOps App (Capstone Prep).ipynb` | Best model from roadmap; MLflow tracking+registry; FastAPI serving; Docker; CI/CD via GitHub Actions; Evidently monitoring; AWS S3 storage; GitHub push + README |
 | 128 | 01-Nov (Sun) | **[WEEKEND PROJECT 19] End-to-End MLOps App (Capstone Prep)** | `Day 128 - End-to-End MLOps App (Capstone Prep).ipynb` | Best model from roadmap; MLflow tracking+registry; FastAPI serving; Docker; CI/CD via GitHub Actions; Evidently monitoring; AWS S3 storage; GitHub push + README |
 
+</details>
+
 ---
 
-### 🤖 Phase 14: Capstone Project
+<details>
+<summary><b>🤖 Phase 14: Capstone Project</b> (Click to expand)</summary>
 
 | Day | Date | Topic / Project | Notebook File | Subtopics |
 |:---:|:---:|:---|:---|:---|
@@ -289,9 +330,12 @@ AI-ML-Blueprint/
 | 148 | 21-Nov (Sat) | **[WEEKEND PROJECT 22] Capstone Final -- Polished & Documented** | `Day 148 - Capstone Final -- Polished and Documented.ipynb` | Complete, deployed, documented, demoed capstone -- flagship portfolio piece done; GitHub push + README |
 | 149 | 22-Nov (Sun) | **[WEEKEND PROJECT 22] Capstone Final -- Polished & Documented** | `Day 149 - Capstone Final -- Polished and Documented.ipynb` | Complete, deployed, documented, demoed capstone -- flagship portfolio piece done; GitHub push + README |
 
+</details>
+
 ---
 
-### 🤖 Phase 15: Final Stretch -- Build, Apply & Launch
+<details>
+<summary><b>🤖 Phase 15: Final Stretch -- Build, Apply & Launch</b> (Click to expand)</summary>
 
 | Day | Date | Topic / Project | Notebook File | Subtopics |
 |:---:|:---:|:---|:---|:---|
@@ -328,9 +372,13 @@ AI-ML-Blueprint/
 | 187 | 30-Dec (Wed) | [TOPIC] Resume + Portfolio Sync (Post-Interview Feedback) | `Day 187 - Resume and Portfolio Sync (Post-Interview Feedback).ipynb` | Incorporate any interview feedback into resume/portfolio; tighten weakest project explanation |
 | 188 | 31-Dec (Thu) | [TOPIC] Apply -- Batch 6 + Public Build-in-Public Post | `Day 188 - Apply -- Batch 6 and Public Build-in-Public Post.ipynb` | Final application push; publish a LinkedIn/blog post summarizing the 189-day journey with project links |
 
+</details>
+
 ---
 
 ## 🛠️ Deep Tech Stack
+
+The entire stack utilized throughout this curriculum to model, evaluate, containerize, and deploy AI services:
 
 <div align="center">
 
@@ -355,16 +403,14 @@ AI-ML-Blueprint/
 
 **Sahil Kumar**
 
-[Links: GitHub | LinkedIn | Portfolio]
+[**GitHub**](https://github.com/Sahil-K-Y) &nbsp;|&nbsp; [**LinkedIn**](#) &nbsp;|&nbsp; [**Portfolio**](#)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Sahil--K--Y-181717?style=for-the-badge&logo=github)](https://github.com/Sahil-K-Y)
-
-*"188 days. Daily consistency. From Logistic Regression to Complete AI/ML Engineer."* 🤖
+*"188 days of daily consistency. No excuses, no breaks. Just code."* 🤖
 
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A855F7&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:A855F7&height=100&section=footer" width="100%"/>
 </div>
