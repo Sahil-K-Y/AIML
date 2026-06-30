@@ -1,0 +1,16 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python caches
+__pycache__/
+*/__pycache__/
+
+# Intermediate parsing files
+parsed_roadmap.json
+pdf_text.txt
+*.pdf
+
+# Logs
+*.log
+Phase-3 - Logistic Regression Deep Dive/logs/

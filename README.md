@@ -66,6 +66,14 @@ It is not just a notes repository — it is a **day-by-day implementation-driven
   </div>
 </div>
 
+<div align="center" style="margin-bottom: 30px;">
+  <a href="./projects_roadmap_100.md" style="text-decoration: none;">
+    <div style="background: linear-gradient(135deg, #1e1b4b, #311042); border: 2px solid #a855f7; border-radius: 12px; padding: 14px 28px; color: #f5f3ff; font-weight: bold; font-size: 16px; box-shadow: 0 4px 15px rgba(168,85,247,0.35); display: inline-block; transition: transform 0.2s;">
+      🎯 View 100-Project Blueprint (July 1 — December 31, 2026) ➔
+    </div>
+  </a>
+</div>
+
 ---
 
 <div align="center">
